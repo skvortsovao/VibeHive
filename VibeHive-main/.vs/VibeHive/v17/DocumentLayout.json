@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\whatd\\Documents\\Dev422\\VibeHive-main\\VibeHive-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7D35FD-58DE-45B5-B7DE-1134045897B1}|VibeHive.Client.WinForms\\VibeHive.Client.WinForms.csproj|C:\\Users\\whatd\\Documents\\Dev422\\VibeHive-main\\VibeHive-main\\vibehive.client.winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7D35FD-58DE-45B5-B7DE-1134045897B1}|VibeHive.Client.WinForms\\VibeHive.Client.WinForms.csproj|solutionrelative:vibehive.client.winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7D35FD-58DE-45B5-B7DE-1134045897B1}|VibeHive.Client.WinForms\\VibeHive.Client.WinForms.csproj|c:\\users\\whatd\\documents\\dev422\\vibehive-main\\vibehive-main\\vibehive.client.winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F7D35FD-58DE-45B5-B7DE-1134045897B1}|VibeHive.Client.WinForms\\VibeHive.Client.WinForms.csproj|solutionrelative:vibehive.client.winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7D35FD-58DE-45B5-B7DE-1134045897B1}|VibeHive.Client.WinForms\\VibeHive.Client.WinForms.csproj|c:\\users\\whatd\\documents\\dev422\\vibehive-main\\vibehive-main\\vibehive.client.winforms\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7D35FD-58DE-45B5-B7DE-1134045897B1}|VibeHive.Client.WinForms\\VibeHive.Client.WinForms.csproj|solutionrelative:vibehive.client.winforms\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7D35FD-58DE-45B5-B7DE-1134045897B1}|VibeHive.Client.WinForms\\VibeHive.Client.WinForms.csproj|c:\\users\\whatd\\documents\\dev422\\vibehive-main\\vibehive-main\\vibehive.client.winforms\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7D35FD-58DE-45B5-B7DE-1134045897B1}|VibeHive.Client.WinForms\\VibeHive.Client.WinForms.csproj|solutionrelative:vibehive.client.winforms\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Users\\whatd\\Documents\\Dev422\\VibeHive-main\\VibeHive-main\\VibeHive.Client.WinForms\\Rental.cs",
+              "RelativeDocumentMoniker": "VibeHive.Client.WinForms\\Rental.cs",
+              "ToolTip": "C:\\Users\\whatd\\Documents\\Dev422\\VibeHive-main\\VibeHive-main\\VibeHive.Client.WinForms\\Rental.cs",
+              "RelativeToolTip": "VibeHive.Client.WinForms\\Rental.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T21:19:03.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\whatd\\Documents\\Dev422\\VibeHive-main\\VibeHive-main\\VibeHive.Client.WinForms\\Album.cs",
+              "RelativeDocumentMoniker": "VibeHive.Client.WinForms\\Album.cs",
+              "ToolTip": "C:\\Users\\whatd\\Documents\\Dev422\\VibeHive-main\\VibeHive-main\\VibeHive.Client.WinForms\\Album.cs",
+              "RelativeToolTip": "VibeHive.Client.WinForms\\Album.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T21:18:25.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\whatd\\Documents\\Dev422\\VibeHive-main\\VibeHive-main\\VibeHive.Client.WinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "VibeHive.Client.WinForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\whatd\\Documents\\Dev422\\VibeHive-main\\VibeHive-main\\VibeHive.Client.WinForms\\Form1.cs",
+              "RelativeToolTip": "VibeHive.Client.WinForms\\Form1.cs",
+              "ViewState": "AQIAAF8BAAAAAAAAAAAIwGoBAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T04:44:07.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\whatd\\Documents\\Dev422\\VibeHive-main\\VibeHive-main\\VibeHive.Client.WinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "VibeHive.Client.WinForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\whatd\\Documents\\Dev422\\VibeHive-main\\VibeHive-main\\VibeHive.Client.WinForms\\Form1.cs [Design]",
+              "RelativeToolTip": "VibeHive.Client.WinForms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T22:13:01.079Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

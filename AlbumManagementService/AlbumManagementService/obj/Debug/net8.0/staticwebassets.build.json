@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "db7/FcA5O51hrLQ2HBiwhBSxhI1ONn6XDADbhPH47ds=",
+  "Source": "AlbumManagementService",
+  "BasePath": "_content/AlbumManagementService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

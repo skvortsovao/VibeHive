@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ep2SRGcRTv/rKaI45Rpryov1slrlavznAK2310HNTMWMUn5u1uzDjrKKScwuD+EmpG3f9u6Z5WuSzv68kErZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\whatd\\Documents\\Dev422\\VibeHive-main\\VibeHive-main\\VibeHive.Client.WinForms\\VibeHive.Client.WinForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\whatd\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
