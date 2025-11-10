@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VibeHive.Client.WinForms", "VibeHive.Client.WinForms\VibeHive.Client.WinForms.csproj", "{1F7D35FD-58DE-45B5-B7DE-1134045897B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlbumManagementService", "..\AlbumManagementService\AlbumManagementService\AlbumManagementService.csproj", "{F95AC7EE-A671-274F-F97A-3802174FA32B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentalService", "..\RentalService\RentalService\RentalService.csproj", "{B2A6133B-89D1-AFF7-44C6-203DE8C52692}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VibeHive.EventsApi", "VibeHive.EventsApi\VibeHive.EventsApi.csproj", "{C99CFA39-75C0-4882-A10A-168892E5C31F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F7D35FD-58DE-45B5-B7DE-1134045897B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F7D35FD-58DE-45B5-B7DE-1134045897B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F7D35FD-58DE-45B5-B7DE-1134045897B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F7D35FD-58DE-45B5-B7DE-1134045897B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F95AC7EE-A671-274F-F97A-3802174FA32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95AC7EE-A671-274F-F97A-3802174FA32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95AC7EE-A671-274F-F97A-3802174FA32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95AC7EE-A671-274F-F97A-3802174FA32B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A6133B-89D1-AFF7-44C6-203DE8C52692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A6133B-89D1-AFF7-44C6-203DE8C52692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A6133B-89D1-AFF7-44C6-203DE8C52692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A6133B-89D1-AFF7-44C6-203DE8C52692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C99CFA39-75C0-4882-A10A-168892E5C31F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99CFA39-75C0-4882-A10A-168892E5C31F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99CFA39-75C0-4882-A10A-168892E5C31F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99CFA39-75C0-4882-A10A-168892E5C31F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03B4D6A3-2187-492F-8088-62BF6329146F}
+	EndGlobalSection
+EndGlobal

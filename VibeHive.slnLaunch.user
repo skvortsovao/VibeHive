@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\RentalService\\RentalService\\RentalService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\AlbumManagementService\\AlbumManagementService\\AlbumManagementService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "VibeHive.EventsApi\\VibeHive.EventsApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "VibeHive.Client.WinForms\\VibeHive.Client.WinForms.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
