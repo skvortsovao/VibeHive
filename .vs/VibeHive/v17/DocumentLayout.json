@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\aleks\\Desktop\\college\\Fall 2025\\Application ArchitectureDEV422 23589 - F25\\VibeHive-nathan\\VibeHive-main - Copy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F7D35FD-58DE-45B5-B7DE-1134045897B1}|VibeHive.Client.WinForms\\VibeHive.Client.WinForms.csproj|c:\\users\\aleks\\desktop\\college\\fall 2025\\application architecturedev422 23589 - f25\\vibehive-nathan\\vibehive-main - copy\\vibehive.client.winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F7D35FD-58DE-45B5-B7DE-1134045897B1}|VibeHive.Client.WinForms\\VibeHive.Client.WinForms.csproj|solutionrelative:vibehive.client.winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F7D35FD-58DE-45B5-B7DE-1134045897B1}|VibeHive.Client.WinForms\\VibeHive.Client.WinForms.csproj|C:\\Users\\aleks\\Desktop\\college\\Fall 2025\\Application ArchitectureDEV422 23589 - F25\\VibeHive-nathan\\VibeHive-main - Copy\\vibehive.client.winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1F7D35FD-58DE-45B5-B7DE-1134045897B1}|VibeHive.Client.WinForms\\VibeHive.Client.WinForms.csproj|solutionrelative:vibehive.client.winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7D35FD-58DE-45B5-B7DE-1134045897B1}|VibeHive.Client.WinForms\\VibeHive.Client.WinForms.csproj|c:\\users\\aleks\\desktop\\college\\fall 2025\\application architecturedev422 23589 - f25\\vibehive-nathan\\vibehive-main - copy\\vibehive.client.winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7D35FD-58DE-45B5-B7DE-1134045897B1}|VibeHive.Client.WinForms\\VibeHive.Client.WinForms.csproj|solutionrelative:vibehive.client.winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C99CFA39-75C0-4882-A10A-168892E5C31F}|VibeHive.EventsApi\\VibeHive.EventsApi.csproj|c:\\users\\aleks\\desktop\\college\\fall 2025\\application architecturedev422 23589 - f25\\vibehive-nathan\\vibehive-main - copy\\vibehive.eventsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -94,11 +94,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\college\\Fall 2025\\Application ArchitectureDEV422 23589 - F25\\VibeHive-nathan\\VibeHive-main - Copy\\VibeHive.Client.WinForms\\Form1.cs",
               "RelativeDocumentMoniker": "VibeHive.Client.WinForms\\Form1.cs",
@@ -119,8 +119,7 @@
               "RelativeToolTip": "VibeHive.EventsApi\\Controllers\\EventsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T19:22:27.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T19:22:27.94Z"
             },
             {
               "$type": "Document",
@@ -132,8 +131,7 @@
               "RelativeToolTip": "VibeHive.Client.WinForms\\DTO\\EventView.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T22:00:00.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T22:00:00.477Z"
             },
             {
               "$type": "Document",
@@ -145,8 +143,7 @@
               "RelativeToolTip": "VibeHive.Client.WinForms\\DTO\\LoginResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T21:44:22.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T21:44:22.725Z"
             },
             {
               "$type": "Document",
@@ -158,8 +155,7 @@
               "RelativeToolTip": "VibeHive.Client.WinForms\\DTO\\TicketDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T00:15:35.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T00:15:35.734Z"
             },
             {
               "$type": "Document",
@@ -171,8 +167,7 @@
               "RelativeToolTip": "VibeHive.Client.WinForms\\DTO\\TicketView.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T00:16:35.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T00:16:35.375Z"
             },
             {
               "$type": "Document",
@@ -184,8 +179,7 @@
               "RelativeToolTip": "VibeHive.EventsApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-09T19:15:58.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T19:15:58.308Z"
             },
             {
               "$type": "Document",
@@ -197,12 +191,11 @@
               "RelativeToolTip": "VibeHive.EventsApi\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-09T19:15:27.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T19:15:27.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\college\\Fall 2025\\Application ArchitectureDEV422 23589 - F25\\VibeHive-nathan\\VibeHive-main - Copy\\VibeHive.Client.WinForms\\Form1.cs",
               "RelativeDocumentMoniker": "VibeHive.Client.WinForms\\Form1.cs",
@@ -222,8 +215,7 @@
               "RelativeToolTip": "VibeHive.Client.WinForms\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T02:01:39.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T02:01:39.733Z"
             },
             {
               "$type": "Document",
@@ -235,8 +227,7 @@
               "RelativeToolTip": "VibeHive.EventsApi\\Controllers\\TicketsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T19:23:16.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T19:23:16.385Z"
             },
             {
               "$type": "Document",
@@ -248,8 +239,7 @@
               "RelativeToolTip": "VibeHive.EventsApi\\Controllers\\UsersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T19:21:17.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T19:21:17.366Z"
             },
             {
               "$type": "Document",
@@ -261,8 +251,7 @@
               "RelativeToolTip": "VibeHive.EventsApi\\Dtos\\Dtos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T19:20:15.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T19:20:15.753Z"
             },
             {
               "$type": "Document",
@@ -274,8 +263,7 @@
               "RelativeToolTip": "VibeHive.EventsApi\\Models\\AppDb.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T19:18:47.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T19:18:47.566Z"
             },
             {
               "$type": "Document",
@@ -287,8 +275,7 @@
               "RelativeToolTip": "VibeHive.EventsApi\\Models\\Event.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T19:17:19.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T19:17:19.358Z"
             },
             {
               "$type": "Document",
@@ -300,8 +287,7 @@
               "RelativeToolTip": "VibeHive.EventsApi\\Models\\Ticket.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T19:17:56.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T19:17:56.282Z"
             },
             {
               "$type": "Document",
@@ -313,8 +299,7 @@
               "RelativeToolTip": "VibeHive.EventsApi\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T19:16:38.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T19:16:38.554Z"
             },
             {
               "$type": "Document",
@@ -326,8 +311,7 @@
               "RelativeToolTip": "VibeHive.EventsApi\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T19:21:59.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T19:21:59.912Z"
             },
             {
               "$type": "Document",
@@ -339,8 +323,7 @@
               "RelativeToolTip": "VibeHive.EventsApi\\Program.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAIBJwCgAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T19:20:41.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T19:20:41.107Z"
             },
             {
               "$type": "Document",
@@ -365,8 +348,7 @@
               "RelativeToolTip": "VibeHive.EventsApi\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-09T21:31:49.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T21:31:49.178Z"
             }
           ]
         }
