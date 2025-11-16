@@ -1,0 +1,193 @@
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\appsettings.json
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.exe
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.deps.json
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.runtimeconfig.json
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.dll
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.pdb
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.csproj.AssemblyReference.cache
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.AssemblyInfoInputs.cache
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.AssemblyInfo.cs
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.csproj.CoreCompileInputs.cache
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets\msbuild.AlbumManagementService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets\msbuild.build.AlbumManagementService.props
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AlbumManagementService.props
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AlbumManagementService.props
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\scopedcss\bundle\AlbumManagementService.styles.css
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumMan.C5A78752.Up2Date
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.dll
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\refint\AlbumManagementService.dll
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.pdb
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.genruntimeconfig.cache
+C:\Users\whatd\Documents\Dev422\VibeHive-main\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\ref\AlbumManagementService.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\appsettings.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.staticwebassets.endpoints.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.exe
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.deps.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.runtimeconfig.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.pdb
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.AssemblyInfo.cs
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\scopedcss\bundle\AlbumManagementService.styles.css
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumMan.C5A78752.Up2Date
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\refint\AlbumManagementService.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.pdb
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.genruntimeconfig.cache
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\ref\AlbumManagementService.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-nathan\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\appsettings.json
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.staticwebassets.endpoints.json
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.exe
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.deps.json
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.runtimeconfig.json
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.dll
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.pdb
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.AssemblyInfo.cs
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\scopedcss\bundle\AlbumManagementService.styles.css
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumMan.C5A78752.Up2Date
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.dll
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\refint\AlbumManagementService.dll
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.pdb
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.genruntimeconfig.cache
+C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\ref\AlbumManagementService.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\appsettings.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.staticwebassets.endpoints.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.exe
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.deps.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.runtimeconfig.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.pdb
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.csproj.AssemblyReference.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.AssemblyInfoInputs.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.AssemblyInfo.cs
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.csproj.CoreCompileInputs.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.sourcelink.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\scopedcss\bundle\AlbumManagementService.styles.css
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumMan.C5A78752.Up2Date
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\refint\AlbumManagementService.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.pdb
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.genruntimeconfig.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\ref\AlbumManagementService.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\appsettings.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.staticwebassets.endpoints.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.exe
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.deps.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.runtimeconfig.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.pdb
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.AssemblyInfo.cs
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\scopedcss\bundle\AlbumManagementService.styles.css
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumMan.C5A78752.Up2Date
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\refint\AlbumManagementService.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.pdb
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.genruntimeconfig.cache
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\ref\AlbumManagementService.dll

@@ -1,0 +1,71 @@
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\appsettings.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\PlaylistService.staticwebassets.endpoints.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\PlaylistService.exe
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\PlaylistService.deps.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\PlaylistService.runtimeconfig.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\PlaylistService.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\PlaylistService.pdb
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\PlaylistService.csproj.AssemblyReference.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\PlaylistService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\PlaylistService.AssemblyInfoInputs.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\PlaylistService.AssemblyInfo.cs
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\PlaylistService.csproj.CoreCompileInputs.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\PlaylistService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\PlaylistService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\PlaylistService.sourcelink.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\scopedcss\bundle\PlaylistService.styles.css
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\Playlist.B56646CC.Up2Date
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\PlaylistService.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\refint\PlaylistService.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\PlaylistService.pdb
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\PlaylistService.genruntimeconfig.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\ref\PlaylistService.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\PlaylistService.staticwebassets.endpoints.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\appsettings.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\PlaylistService.exe
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\PlaylistService.deps.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\PlaylistService.runtimeconfig.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\PlaylistService.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\PlaylistService.pdb
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\PlaylistService.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\PlaylistService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\PlaylistService.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\PlaylistService.AssemblyInfo.cs
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\PlaylistService.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\PlaylistService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\PlaylistService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\scopedcss\bundle\PlaylistService.styles.css
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\Playlist.B56646CC.Up2Date
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\PlaylistService.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\refint\PlaylistService.dll
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\PlaylistService.pdb
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\PlaylistService.genruntimeconfig.cache
+C:\Users\aleks\Desktop\college\Fall 2025\Application ArchitectureDEV422 23589 - F25\VibeHive-gunhee\PlaylistService\PlaylistService\PlaylistService\obj\Debug\net8.0\ref\PlaylistService.dll
