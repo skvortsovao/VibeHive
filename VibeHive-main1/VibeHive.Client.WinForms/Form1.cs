@@ -11,6 +11,9 @@ using VibeHive.Client.WinForms.DTO;
 using VibeHive.Client.WinForms.Dtos;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 
 
@@ -24,6 +27,12 @@ namespace VibeHive.Client.WinForms
         {
             BaseAddress = new Uri("https://localhost:7273")
         };
+
+        private readonly HttpClient _playlistHttp = new()
+        {
+            BaseAddress = new Uri("https://localhost:7224")
+        };
+
         // session state for the logged-in user
         private string? _jwt;
         private int _currentUserId;
@@ -41,9 +50,18 @@ namespace VibeHive.Client.WinForms
             this.Load += Form1_Load;
             btnNavMusic.Click += btnNavMusic_Click;
             btnNavEvents.Click += btnNavEvents_Click;
+
+            btnNavPlaylists.Click += btnNavPlaylists_Click;
+            btnLoadPlaylists.Click += btnLoadPlaylists_Click;
+            btnCreatePlaylist.Click += btnCreatePlaylist_Click;
+            dgvPlaylists.SelectionChanged += dgvPlaylists_SelectionChanged;
+            btnAddSong.Click += btnAddSong_Click;
+            btnVoteUp.Click += btnVoteUp_Click;
+            btnVoteDown.Click += btnVoteDown_Click;
+            btnShowRankings.Click += btnShowRankings_Click;
+
             numBookQty.Minimum = 1;
             numBookQty.Value = 1;
-
 
             RefreshLists();
         }
@@ -53,6 +71,7 @@ namespace VibeHive.Client.WinForms
             // nothing shown except the auth menu
             panelMusic.Visible = false;
             panelEvents.Visible = false;
+            panelPlaylists.Visible = false;   // NEW
 
             grpDashboard.Visible = false;
             grpRegister.Visible = false;
@@ -82,6 +101,8 @@ namespace VibeHive.Client.WinForms
             btnNavEvents.Visible = loggedIn;
             btnNavMusic.Enabled = loggedIn;
             btnNavEvents.Enabled = loggedIn;
+            btnNavPlaylists.Visible = loggedIn;   // NEW
+            btnNavPlaylists.Enabled = loggedIn;   // NEW
 
             // top labels + logout button (assumes these controls are on the top bar)
             lblWelcome.Visible = loggedIn;
@@ -110,8 +131,11 @@ namespace VibeHive.Client.WinForms
         {
             btnNavMusic.Visible = on;
             btnNavEvents.Visible = on;
+            btnNavPlaylists.Visible = on;   // NEW
+
             btnNavMusic.Enabled = on;
             btnNavEvents.Enabled = on;
+            btnNavPlaylists.Enabled = on;   // NEW
         }
         // logical views inside the events panel
         private enum EventsView { Menu, Register, Login, Dashboard }
@@ -510,12 +534,14 @@ namespace VibeHive.Client.WinForms
             //show only the requested main panel
             panelMusic.Visible = false;
             panelEvents.Visible = false;
+            panelPlaylists.Visible = false;   // NEW
 
             target.Visible = true;
             target.BringToFront();
 
             btnNavMusic.Enabled = target != panelMusic;
             btnNavEvents.Enabled = target != panelEvents;
+            btnNavPlaylists.Enabled = target != panelPlaylists; // NEW
         }
         private async Task LoadMyTicketsAsync()
         {
@@ -1074,5 +1100,252 @@ namespace VibeHive.Client.WinForms
         {
 
         }
+
+        private void label20_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnNavPlaylists_Click(object sender, EventArgs e)
+        {
+            ShowOnly(panelPlaylists);
+        }
+
+        private async Task LoadPlaylistsAsync()
+        {
+            try
+            {
+                var list = await _playlistHttp.GetFromJsonAsync<List<PlaylistView>>("/api/playlists")
+                           ?? new List<PlaylistView>();
+
+                dgvPlaylists.AutoGenerateColumns = true;
+                dgvPlaylists.Columns.Clear();
+                dgvPlaylists.DataSource = list;
+
+                if (dgvPlaylists.Rows.Count > 0)
+                    dgvPlaylists.Rows[0].Selected = true;
+
+                // clear songs + rankings when playlist list reloads
+                dgvSongs.DataSource = null;
+                lstRankings.Items.Clear();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Failed to load playlists: " + ex.Message);
+            }
+        }
+
+        private async void btnLoadPlaylists_Click(object sender, EventArgs e)
+        {
+            await LoadPlaylistsAsync();
+        }
+
+        private async void btnCreatePlaylist_Click(object sender, EventArgs e)
+        {
+            if (_jwt == null || _currentUserId <= 0)
+            {
+                MessageBox.Show("Please log in before creating playlists.");
+                return;
+            }
+
+            var name = txtPlaylistName.Text.Trim();
+            if (string.IsNullOrWhiteSpace(name))
+            {
+                MessageBox.Show("Playlist name is required.");
+                return;
+            }
+
+            var body = new
+            {
+                name = name,
+                createdByUserId = _currentUserId,
+                isCollaborative = chkCollaborative.Checked
+            };
+
+            try
+            {
+                var res = await _playlistHttp.PostAsJsonAsync("/api/playlists", body);
+                if (res.IsSuccessStatusCode)
+                {
+                    MessageBox.Show("Playlist created.");
+                    txtPlaylistName.Clear();
+                    chkCollaborative.Checked = true;
+                    await LoadPlaylistsAsync();
+                }
+                else
+                {
+                    MessageBox.Show("Create failed: " + await res.Content.ReadAsStringAsync());
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error creating playlist: " + ex.Message);
+            }
+        }
+
+        private async void dgvPlaylists_SelectionChanged(object sender, EventArgs e)
+        {
+            var row = dgvPlaylists.CurrentRow;
+            if (row == null) return;
+
+            var playlist = row.DataBoundItem as PlaylistView;
+            if (playlist == null) return;
+
+            await LoadPlaylistSongsAsync(playlist.Id);
+        }
+
+        private async Task LoadPlaylistSongsAsync(int playlistId)
+        {
+            try
+            {
+                // Get full playlist including Songs list
+                var json = await _playlistHttp.GetStringAsync($"/api/playlists/{playlistId}");
+                var full = JsonConvert.DeserializeObject<PlaylistFullDto>(json);
+
+                var songs = full?.Songs ?? new List<PlaylistSongView>();
+
+                dgvSongs.AutoGenerateColumns = true;
+                dgvSongs.Columns.Clear();
+                dgvSongs.DataSource = songs;
+
+                if (dgvSongs.Rows.Count > 0)
+                    dgvSongs.Rows[0].Selected = true;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Failed to load songs: " + ex.Message);
+            }
+        }
+        private async void btnAddSong_Click(object sender, EventArgs e)
+        {
+            var playlist = dgvPlaylists.CurrentRow?.DataBoundItem as PlaylistView;
+            if (playlist == null)
+            {
+                MessageBox.Show("Select a playlist first.");
+                return;
+            }
+
+            var title = txtSongTitle.Text.Trim();
+            var artist = txtSongArtist.Text.Trim();
+            var genre = txtSongGenre.Text.Trim();
+
+            if (!int.TryParse(txtSongDuration.Text.Trim(), out int duration) || duration <= 0)
+            {
+                MessageBox.Show("Enter a valid duration in seconds.");
+                return;
+            }
+
+            if (string.IsNullOrWhiteSpace(title) || string.IsNullOrWhiteSpace(artist))
+            {
+                MessageBox.Show("Song title and artist are required.");
+                return;
+            }
+
+            var body = new
+            {
+                title,
+                artist,
+                genre,
+                durationSeconds = duration
+            };
+
+            try
+            {
+                var res = await _playlistHttp.PutAsJsonAsync($"/api/playlists/{playlist.Id}/add", body);
+                if (res.IsSuccessStatusCode)
+                {
+                    MessageBox.Show("Song added.");
+                    txtSongTitle.Clear();
+                    txtSongArtist.Clear();
+                    txtSongGenre.Clear();
+                    txtSongDuration.Clear();
+
+                    await LoadPlaylistSongsAsync(playlist.Id);
+                }
+                else
+                {
+                    MessageBox.Show("Add failed: " + await res.Content.ReadAsStringAsync());
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error adding song: " + ex.Message);
+            }
+        }
+        private async Task VoteOnSelectedSongAsync(int delta)
+        {
+            var playlist = dgvPlaylists.CurrentRow?.DataBoundItem as PlaylistView;
+            var song = dgvSongs.CurrentRow?.DataBoundItem as PlaylistSongView;
+
+            if (playlist == null || song == null)
+            {
+                MessageBox.Show("Select a playlist and a song first.");
+                return;
+            }
+
+            var body = new
+            {
+                songId = song.Id,
+                userId = _currentUserId,
+                delta = delta
+            };
+
+            try
+            {
+                var res = await _playlistHttp.PostAsJsonAsync($"/api/playlists/{playlist.Id}/vote", body);
+                if (res.IsSuccessStatusCode)
+                {
+                    await LoadPlaylistSongsAsync(playlist.Id);
+                }
+                else
+                {
+                    MessageBox.Show("Vote failed: " + await res.Content.ReadAsStringAsync());
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error voting on song: " + ex.Message);
+            }
+        }
+
+        private async void btnVoteUp_Click(object sender, EventArgs e)
+        {
+            await VoteOnSelectedSongAsync(+1);
+        }
+
+        private async void btnVoteDown_Click(object sender, EventArgs e)
+        {
+            await VoteOnSelectedSongAsync(-1);
+        }
+
+        private async void btnShowRankings_Click(object sender, EventArgs e)
+        {
+            var playlist = dgvPlaylists.CurrentRow?.DataBoundItem as PlaylistView;
+            if (playlist == null)
+            {
+                MessageBox.Show("Select a playlist first.");
+                return;
+            }
+
+            try
+            {
+                var rankings = await _playlistHttp.GetFromJsonAsync<List<SongRankingView>>(
+                    $"/api/playlists/{playlist.Id}/rankings")
+                               ?? new List<SongRankingView>();
+
+                lstRankings.Items.Clear();
+                foreach (var r in rankings)
+                {
+                    lstRankings.Items.Add(
+                        $"{r.Position}. {r.Title} - {r.Artist} (Votes: {r.Votes})");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Failed to load rankings: " + ex.Message);
+            }
+        }
+
+
     }
 }

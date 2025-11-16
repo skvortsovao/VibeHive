@@ -1402,23 +1402,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\aleks\\.nuget\\packages\\": {},
+    "C:\\Users\\wsxqa\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleks\\Desktop\\New folder\\VibeHive-main1\\VibeHive.EventsApi\\VibeHive.EventsApi.csproj",
+      "projectUniqueName": "C:\\Users\\wsxqa\\Desktop\\BC\\Classes\\DEV422\\midterm\\midterm\\VibeHive-main1\\VibeHive.EventsApi\\VibeHive.EventsApi.csproj",
       "projectName": "VibeHive.EventsApi",
-      "projectPath": "C:\\Users\\aleks\\Desktop\\New folder\\VibeHive-main1\\VibeHive.EventsApi\\VibeHive.EventsApi.csproj",
-      "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleks\\Desktop\\New folder\\VibeHive-main1\\VibeHive.EventsApi\\obj\\",
+      "projectPath": "C:\\Users\\wsxqa\\Desktop\\BC\\Classes\\DEV422\\midterm\\midterm\\VibeHive-main1\\VibeHive.EventsApi\\VibeHive.EventsApi.csproj",
+      "packagesPath": "C:\\Users\\wsxqa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\wsxqa\\Desktop\\BC\\Classes\\DEV422\\midterm\\midterm\\VibeHive-main1\\VibeHive.EventsApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\wsxqa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

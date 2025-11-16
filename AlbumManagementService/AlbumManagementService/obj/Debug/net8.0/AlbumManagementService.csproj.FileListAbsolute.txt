@@ -110,3 +110,44 @@ C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\
 C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.pdb
 C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.genruntimeconfig.cache
 C:\Users\aleks\Desktop\New folder\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\ref\AlbumManagementService.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\appsettings.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.staticwebassets.endpoints.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.exe
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.deps.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.runtimeconfig.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\AlbumManagementService.pdb
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.csproj.AssemblyReference.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.AssemblyInfoInputs.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.AssemblyInfo.cs
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.csproj.CoreCompileInputs.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.sourcelink.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\scopedcss\bundle\AlbumManagementService.styles.css
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumMan.C5A78752.Up2Date
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\refint\AlbumManagementService.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.pdb
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\AlbumManagementService.genruntimeconfig.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\AlbumManagementService\AlbumManagementService\obj\Debug\net8.0\ref\AlbumManagementService.dll

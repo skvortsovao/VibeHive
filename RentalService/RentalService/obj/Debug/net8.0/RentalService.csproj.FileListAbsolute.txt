@@ -110,3 +110,44 @@ C:\Users\aleks\Desktop\New folder\RentalService\RentalService\obj\Debug\net8.0\r
 C:\Users\aleks\Desktop\New folder\RentalService\RentalService\obj\Debug\net8.0\RentalService.pdb
 C:\Users\aleks\Desktop\New folder\RentalService\RentalService\obj\Debug\net8.0\RentalService.genruntimeconfig.cache
 C:\Users\aleks\Desktop\New folder\RentalService\RentalService\obj\Debug\net8.0\ref\RentalService.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\bin\Debug\net8.0\appsettings.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\bin\Debug\net8.0\RentalService.staticwebassets.endpoints.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\bin\Debug\net8.0\RentalService.exe
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\bin\Debug\net8.0\RentalService.deps.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\bin\Debug\net8.0\RentalService.runtimeconfig.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\bin\Debug\net8.0\RentalService.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\bin\Debug\net8.0\RentalService.pdb
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\RentalService.csproj.AssemblyReference.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\RentalService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\RentalService.AssemblyInfoInputs.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\RentalService.AssemblyInfo.cs
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\RentalService.csproj.CoreCompileInputs.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\RentalService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\RentalService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\RentalService.sourcelink.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\scopedcss\bundle\RentalService.styles.css
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\RentalSe.B44859EE.Up2Date
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\RentalService.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\refint\RentalService.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\RentalService.pdb
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\RentalService.genruntimeconfig.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\RentalService\RentalService\obj\Debug\net8.0\ref\RentalService.dll

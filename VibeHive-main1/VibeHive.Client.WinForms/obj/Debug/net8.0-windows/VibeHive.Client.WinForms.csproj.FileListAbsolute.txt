@@ -105,3 +105,30 @@ C:\Users\aleks\Desktop\New folder\VibeHive-main1\VibeHive.Client.WinForms\obj\De
 C:\Users\aleks\Desktop\New folder\VibeHive-main1\VibeHive.Client.WinForms\obj\Debug\net8.0-windows\VibeHive.Client.WinForms.pdb
 C:\Users\aleks\Desktop\New folder\VibeHive-main1\VibeHive.Client.WinForms\obj\Debug\net8.0-windows\VibeHive.Client.WinForms.genruntimeconfig.cache
 C:\Users\aleks\Desktop\New folder\VibeHive-main1\VibeHive.Client.WinForms\obj\Debug\net8.0-windows\ref\VibeHive.Client.WinForms.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\bin\Debug\net8.0-windows\VibeHive.Client.WinForms.exe
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\bin\Debug\net8.0-windows\VibeHive.Client.WinForms.deps.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\bin\Debug\net8.0-windows\VibeHive.Client.WinForms.runtimeconfig.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\bin\Debug\net8.0-windows\VibeHive.Client.WinForms.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\bin\Debug\net8.0-windows\VibeHive.Client.WinForms.pdb
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\obj\Debug\net8.0-windows\VibeHive.Client.WinForms.csproj.AssemblyReference.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\obj\Debug\net8.0-windows\VibeHive.Client.WinForms.Form1.resources
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\obj\Debug\net8.0-windows\VibeHive.Client.WinForms.csproj.GenerateResource.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\obj\Debug\net8.0-windows\VibeHive.Client.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\obj\Debug\net8.0-windows\VibeHive.Client.WinForms.AssemblyInfoInputs.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\obj\Debug\net8.0-windows\VibeHive.Client.WinForms.AssemblyInfo.cs
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\obj\Debug\net8.0-windows\VibeHive.Client.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\obj\Debug\net8.0-windows\VibeHive.Client.WinForms.sourcelink.json
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\obj\Debug\net8.0-windows\VibeHive.1023FCDF.Up2Date
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\obj\Debug\net8.0-windows\VibeHive.Client.WinForms.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\obj\Debug\net8.0-windows\refint\VibeHive.Client.WinForms.dll
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\obj\Debug\net8.0-windows\VibeHive.Client.WinForms.pdb
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\obj\Debug\net8.0-windows\VibeHive.Client.WinForms.genruntimeconfig.cache
+C:\Users\wsxqa\Desktop\BC\Classes\DEV422\midterm\midterm\VibeHive-main1\VibeHive.Client.WinForms\obj\Debug\net8.0-windows\ref\VibeHive.Client.WinForms.dll
